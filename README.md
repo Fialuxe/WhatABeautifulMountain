@@ -15,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## How to install
+Apk file is [here](https://github.com/Fialuxe/WhatABeautifulMountain/tree/main/build/app/outputs/flutter-apk). but please be careful, I cannot guarantee the safety.
