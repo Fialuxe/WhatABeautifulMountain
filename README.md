@@ -1,6 +1,6 @@
 # mt_fuji_distance
 
-A new Flutter project.
+A flutter project that measure the distance from your place to Mt. Fuji in Japan.
 
 ## Getting Started
 
@@ -19,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to install
 Apk file is [here](https://github.com/Fialuxe/WhatABeautifulMountain/tree/main/build/app/outputs/flutter-apk). but please be careful, I cannot guarantee the safety.
+
+
+# For Japanese
+富士山までのユークリッド距離を測るアプリです。
