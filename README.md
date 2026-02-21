@@ -1,4 +1,8 @@
 # mt_fuji_distance
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4d8c678b-19c5-42c3-9a7a-a1f00cbca319" width="320px" alt="Demo">
+</div>
+
 
 A flutter project that measure the distance from your place to Mt. Fuji in Japan.
 
