@@ -3,6 +3,12 @@
   <img src="https://github.com/user-attachments/assets/4d8c678b-19c5-42c3-9a7a-a1f00cbca319" width="320px" alt="Demo">
 </div>
 
+<div align="center">
+  <p>
+  Apk file: <a href="https://github.com/Fialuxe/WhatABeautifulMountain/tree/main/build/app/outputs/flutter-apk">here</a><br>
+    (plz check before run)
+</p>
+</div>
 
 A flutter project that measure the distance from your place to Mt. Fuji in Japan.
 
